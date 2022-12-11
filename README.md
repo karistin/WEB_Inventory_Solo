@@ -124,6 +124,7 @@ Core by **[Vue.js](https://vuejs.org/)**
 UI by **[element-ui](https://element.eleme.io/)**  
 Thanks to **[국방부오픈소스아카데미](https://osam.kr/)**  
 [웹동네](http://webdongne.com) **김춘경 멘토**님 감사드립니다.
+[vue.js quickStart](https://github.com/karistin/vuejs_book_2nd)
 
 ## 업데이트 정보 (Change Log)
 
