@@ -3,8 +3,8 @@
 <image src = "./image/erp.jpg"
 width=300
 height =300>  
-[pptLink](https://github.com/karistin/WEB_Inventory_Solo/blob/master/InventoryPPT.pptx)
-
+[pptLink](https://github.com/karistin/WEB_Inventory_Solo/blob/master/InventoryPPT.pptx)  
+[youtube](https://www.youtube.com/watch?v=-sITZEORdtM)
 ## 목표
 
 창고정리는 **군내에서 복잡하고 어려운 물류관리를 쉅게 하기위해** 만든 프로젝트 입니다.
